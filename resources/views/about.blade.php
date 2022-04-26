@@ -7,9 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello World!</h1>
-    <a href="support">Support</a>
-    <a href="about">About Me</a>
+    <h1>Sezione About Me</h1>
+    <a href="/homepage">Torna alla home</a>
 </body>
 </html>
 
